@@ -1,4 +1,4 @@
-* Install the vSocial app by running the setup
+* Install the vSocial app by running the vSocialSetup.exe file
 * Open the vSocial ThickClient app
 * There will be two options - Deploy Web App and Admin Portal
 * First time follow the Deploy Web App instructions
